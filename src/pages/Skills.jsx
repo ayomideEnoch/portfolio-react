@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react"
 import Section from "../components/Section"
 import Skill from "../components/Skill"
 import Pie3D from "../components/Chart/Pie3D"
-import { SiAndroidstudio, SiAngular, SiCss3, SiDocker, SiFirebase, SiFlask, SiFlutter, SiGit, SiGithub, SiHtml5, SiIntellijidea, SiJava, SiJavascript, SiJupyter, SiKeras, SiKubernetes, SiMongodb, SiNodedotjs, SiPostgresql, SiPostman, SiReact, SiTensorflow, SiVisualstudiocode, SiVuedotjs } from "react-icons/si"
+import { SiAndroidstudio, SiAngular, SiCss3, SiDocker, SiFirebase, SiFlask, SiFlutter, SiGit, SiGithub, SiHtml5, SiIntellijidea, SiJava, SiJavascript, SiJupyter, SiKeras, SiKubernetes, SiMongodb, SiPostgresql, SiPostman, SiReact, SiTensorflow, SiVisualstudiocode, SiVuedotjs } from "react-icons/si"
 import { BsTerminalFill } from "react-icons/bs"
 
 const Skills = () => {
@@ -205,8 +205,8 @@ const Skills = () => {
 
   const iconsSet5 = [
     {
-      icon: <SiNodedotjs />,
-    },
+    //   icon: <SiNodedotjs />,
+    // },
     {
       icon: <SiMongodb />,
     },
