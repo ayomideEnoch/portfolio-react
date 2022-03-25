@@ -90,7 +90,7 @@ const Contact = () => {
                   <span>
                     <ImLocation />
                   </span>
-                  <p>Howrah, West Bengal, India</p>
+                  <p>Ikeja, Lagos State, Nigeria</p>
                 </div>
               </div>
 
@@ -99,14 +99,14 @@ const Contact = () => {
                   <span>
                     <FaPhoneAlt />
                   </span>
-                  <p>+91 7044941540</p>
+                  <p>+234 8099691225</p>
                 </div>
               </div>
             </div>
           </div>
           <div className='contact-map'>
             <iframe
-              src='https://www.google.com/maps/embed/v1/place?q=place_id:ChIJlwFf1LJ5AjoRvDWWviQkk_U&key=AIzaSyAfIwaJqCMa9cw8u754GeIMuDwMqQYNSa8'
+              src='https://maps.google.com/maps?q=17b,%20habeedeen%20wahab%20close,%20ikeja&t=&z=13&ie=UTF8&iwloc=&output=embed'
               frameBorder='0'
               allowFullScreen=''
               aria-hidden='false'
@@ -118,7 +118,7 @@ const Contact = () => {
       </div>
 
       <p className='py-3 m-0 mt-5 text-center text-secondary'>
-        Made with ❤ by Sagnik
+        Made with ❤ by Ayomide
       </p>
     </Section>
   )

@@ -20,6 +20,7 @@ import Achievements from "./pages/Achievements"
 function App() {
   useEffect(() => {
     AOS.init()
+    require('dotenv').config()
   }, [])
 
   return (
@@ -32,10 +33,10 @@ function App() {
           ></meta>
           <meta
             name="description"
-            content="Sagnik Ghosh - Fullstack Developer."
+            content="Ayomide Ibosiola - Technical Recruiter || Software Developer."
           />
-          <meta name="author" content="Sagnik Ghosh" />
-          <title>Sagnik Ghosh - Portfolio</title>
+          <meta name="author" content="Ayomide Ibosiola" />
+          <title>Ayomide Ibosiola</title>
         </Helmet>
         <div id="wrapper">
           <Navbar />

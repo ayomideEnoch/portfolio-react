@@ -1,7 +1,7 @@
 import React from "react";
 import Section from "../components/Section";
 
-import { BsTrophy } from "react-icons/bs"
+// import { BsTrophy } from "react-icons/bs"
 import { RiFilePaper2Fill } from "react-icons/ri"
 
 export default function Achievements() {
@@ -11,74 +11,66 @@ export default function Achievements() {
         <ul className="fa-ul mb-0">
           <div>
             <span className="fa-li p-2">
-              <i className="fas fa-trophy text-warning"><BsTrophy /></i>
+              <i className="fas fa-trophy text-warning"><RiFilePaper2Fill /></i>
             </span>
-            <a href="https://drive.google.com/file/d/1AffY67ZamCGlrocrvHkmAT9NEYu3GNHd/view?usp=sharing">
-              Google Hash Code 2021
-            </a>
-          </div>
-          <div>
-            <span className="fa-li p-2">
-              <i className="fas fa-trophy text-warning"><BsTrophy /></i>
-            </span>
-            <a href="https://drive.google.com/file/d/13RZHo6PMYYJ2C5r2QT5BPARK_DWS9Wcj/view?usp=sharing">
-              Google Code Jam 2021
-            </a>
-          </div>
-          <div>
-            <span className="fa-li p-2">
-              <i className="fas fa-trophy text-warning"><BsTrophy /></i>
-            </span>
-            <a href="https://www.codechef.com/users/sagnikghoshcr7/">
-              4⭐ on Codechef
+            <a href="https://devskiller.com/hr-certification/5o9YS2D9zy2h5jdntogPei">
+              Tech Recruitment Certified Professional
             </a>
           </div>
           <div>
             <span className="fa-li p-2">
               <i className="fas fa-trophy text-warning"><RiFilePaper2Fill /></i>
             </span>
-            <a href="https://drive.google.com/file/d/191YHoGUN6K-Jj-1ExgD0HlXf6G81_4PC/view?usp=sharing">
-              Google Digital Garage
+            <a href="https://certificates.simplicdn.net/share/3148372_1641335274.pdf">
+            JavaScript for Beginners
             </a>
           </div>
           <div>
             <span className="fa-li p-2">
               <i className="fas fa-trophy text-warning"><RiFilePaper2Fill /></i>
             </span>
-            <a href="https://www.udemy.com/certificate/UC-54585c1b-50b5-4471-ac9c-ae39d8b0a0a5/">
-              CNN for Computer Vision with Keras and TensorFlow in Python
+            <a href="https://certificates.simplicdn.net/share/3142288_1641096642.pdf">
+              ReactJS for Beginners
             </a>
           </div>
           <div>
             <span className="fa-li p-2">
               <i className="fas fa-trophy text-warning"><RiFilePaper2Fill /></i>
             </span>
-            <a href="https://www.udemy.com/certificate/UC-cd27566a-419f-4b82-b4fb-956328fdf98f/">
-              Neural Networks in Python: Deep Learning
+            <a href="https://certificates.simplicdn.net/share/3139435_1641029483.pdf">
+              Getting Started with ReactJS Components
             </a>
           </div>
           <div>
             <span className="fa-li p-2">
               <i className="fas fa-trophy text-warning"><RiFilePaper2Fill /></i>
             </span>
-            <a href="https://www.udemy.com/certificate/UC-3caea225-1334-472c-83ec-a2046bc19a2b/">
-              Modern React with Redux
+            <a href="https://www.pdffiller.com/jsfiller-desk13/?isShareViaLink=1&projectId=964760748&loader=tips&replace_gtm=false#290e1f62ec7665199ccb5833461cadc2">
+              Software Testing
             </a>
           </div>
           <div>
             <span className="fa-li p-2">
               <i className="fas fa-trophy text-warning"><RiFilePaper2Fill /></i>
             </span>
-            <a href="https://www.udemy.com/certificate/UC-9cce26a1-c7be-48b1-8dec-e60515641792/">
-              Flutter & Dart - The Complete Guide
+            <a href="https://coursera.org/share/ca2b8c2dc8d9571be2b641d807b0bc8e">
+              Soft Skills Course
             </a>
           </div>
           <div>
             <span className="fa-li p-2">
               <i className="fas fa-trophy text-warning"><RiFilePaper2Fill /></i>
             </span>
-            <a href="https://www.udemy.com/certificate/UC-735685b2-f95b-4e7f-b2bc-77a65ca8ceda/">
-              The Complete Flutter and Dart Guide
+            <a href="https://media-exp1.licdn.com/dms/document/C4D1FAQE7PTsodM_jfw/feedshare-document-pdf-analyzed/0/1620399950388?e=2147483647&v=beta&t=Lwi3gZOIGdLi-g5CGdwViQpcPV48FEQketOpFhJmgTw">
+              Certificate of Language Ability
+            </a>
+          </div>
+          <div>
+            <span className="fa-li p-2">
+              <i className="fas fa-trophy text-warning"><RiFilePaper2Fill /></i>
+            </span>
+            <a href="https://app.testdome.com/cert/21ab5822e8ac4d4ab757e301b76ccc9b">
+              HTML/CSS and JavaScript
             </a>
           </div>
         </ul>

@@ -1,52 +1,52 @@
-import Crwn from "../assets/portfolio/Crwn.jpg"
-import Tango from "../assets/portfolio/Tango.jpg"
-import Chumkin from "../assets/portfolio/Chumkin.jpg"
-import BCPrediction from "../assets/portfolio/BCPrediction.jpg"
-import CPPrediction from "../assets/portfolio/CPPrediction.jpg"
+import LuxRooms from "../assets/portfolio/LuxRooms.jpg"
+import OnlineShopping from "../assets/portfolio/OnlineShopping.PNG"
+import QA from "../assets/portfolio/QA.PNG"
+import Invoice from "../assets/portfolio/invoice.PNG"
+import FRTApp from "../assets/portfolio/FRTApp.PNG"
 import HDPrediction from "../assets/portfolio/HDPrediction.jpg"
 
 // eslint-disable-next-line import/no-anonymous-default-export
 export default [
   {
-    img: Crwn,
-    title: "CRWN CLOTHING",
-    desc: "A React E-commerce Progressive Web App which has Authentication, Database, CRUD, Payment features.",
-    demo: "https://sgcr7crwn-live.herokuapp.com/",
-    source: "https://github.com/sagnikghoshcr7/crwn-clothing",
+    img: LuxRooms,
+    title: "LUXURIOUS ROOMS",
+    desc: "A React E-commerce PWA that allows you select your room of choice, depending on size and other preferences!",
+    demo: "https://luxurious-rooms.netlify.app/",
+    source: "https://github.com/ayomideEnoch/luxurious-rooms",
   },
   {
-    img: Tango,
-    title: "TANGO BROWSER",
-    desc: "Modern Browser App based on chromium & .NET Framework. Our Browser has all modern features that chrome has.",
-    demo: "https://github.com/MSAC-KIIT/TangoBrowser/blob/main/README.md",
-    source: "https://github.com/MSAC-KIIT/TangoBrowser",
+    img: OnlineShopping,
+    title: "ONLINE SHOPPING APP",
+    desc: "An online shopping site, a companion for your online shoppers that makes it easier to find the products and brands that they want!",
+    demo: "https://aid-consults.netlify.app/",
+    source: "https://github.com/ayomideEnoch/aid-consults",
   },
   {
-    img: Chumkin,
-    title: "CHUMKIN",
-    desc: "A Flutter Instagram Clone which has Authentication, Database, Profile, Image Uploading with Live Geolocation, Like & Comment features.",
-    demo: "https://github.com/sagnikghoshcr7/Chumkin/blob/master/README.md",
-    source: "https://github.com/sagnikghoshcr7/Chumkin",
+    img: QA,
+    title: "QUESTION AND ANSWER APP",
+    desc: "A web based game that allows audiences to answer questions and review their performance at the end of the game!",
+    demo: "https://q-a.netlify.app/",
+    source: "https://github.com/ayomideEnoch/q-a-app",
   },
   {
-    img: BCPrediction,
-    title: "BREAST CANCER PREDICTION",
-    desc: "Diagnosing Malignant versus Benign Breast Tumours via Machine Learning Techniques in High Dimensions. Logistc Regression, SVM and Decision Tree methods to classify data.",
-    demo: "https://github.com/sagnikghoshcr7/Breast-Cancer-Prediction/blob/master/model.ipynb",
-    source: "https://github.com/sagnikghoshcr7/Breast-Cancer-Prediction",
+    img: Invoice,
+    title: "INVOICE APP",
+    desc: "A simple invoicing software that gives invoice details with payment status and printing options. Save time, stay organized and look professional!",
+    demo: "https://invoice-web.netlify.app/",
+    source: "https://github.com/ayomideEnoch/invoice-app",
   },
   {
-    img: CPPrediction,
-    title: "CAR PRICE PREDICTION",
-    desc: "I'll use various machine learning algorithms to predict the price of used cars. Machine learning model with linear regression for car price prediction.",
-    demo: "https://github.com/sagnikghoshcr7/Car-Price-Prediction/blob/master/Predicting%20used%20car%20prices.ipynb",
-    source: "https://github.com/sagnikghoshcr7/Car-Price-Prediction",
+    img: FRTApp,
+    title: "FLIGHT REALTIME INFO APP",
+    desc: "An app that shows realtime info of flights around the world! \n For demo, input email: demo@demo.com and password: demodemo!",
+    demo: "https://opensky-coven-works.netlify.app/",
+    source: "https://github.com/ayomideEnoch/Coven-Works",
   },
   {
     img: HDPrediction,
-    title: "HEART DISEASE PREDICTION",
-    desc: "Machine Learning project to predict heart diseases. Predicting chance of heart disease in people using Regression and Decision Tree algorithms.",
-    demo: "https://github.com/sagnikghoshcr7/Heart-Disease-Prediction/blob/master/Heart%20Disease%20Prediction.ipynb",
-    source: "https://github.com/sagnikghoshcr7/Heart-Disease-Prediction",
+    title: "HEART DISEASE PREDICTOR",
+    desc: "Machine Learning project to predict heart diseases. Predicting chance of heart disease in people using Regression and Decision Tree algorithms. Ongoing...",
+    demo: "https://github.com/ayomideEnoch/heart-disease-predictor",
+    source: "https://github.com/ayomideEnoch/heart-disease-predictor",
   },
 ]
