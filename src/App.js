@@ -36,7 +36,7 @@ function App() {
             content="Ayomide Ibosiola - Technical Recruiter || Software Developer."
           />
           <meta name="author" content="Ayomide Ibosiola" />
-          <title>Ayomide Ibosiola</title>
+          <title>Ayòmídé ÌBÒSÍOLÁ</title>
         </Helmet>
         <div id="wrapper">
           <Navbar />

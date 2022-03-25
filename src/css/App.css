@@ -139,7 +139,7 @@ section.resume-section .resume-section-content {
 }
 .cards .card .title {
   font-size: 24px;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
 }
 .cards .card .card-thumbnail {
   position: relative;
