@@ -205,9 +205,6 @@ const Skills = () => {
 
   const iconsSet5 = [
     {
-    //   icon: <SiNodedotjs />,
-    // },
-    {
       icon: <SiMongodb />,
     },
     {
