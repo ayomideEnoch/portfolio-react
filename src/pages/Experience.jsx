@@ -64,7 +64,7 @@ export default function Experience() {
           <h3 className="mb-0">Frontend Developer</h3>
           <div className="subheading mb-3">Midra Solutions</div>
           <p>
-            <li>IMaintained, optimized, troubleshot, and improved websites.</li>
+            <li>Maintained, optimized, troubleshot, and improved websites.</li>
             <li>Created standardized websites and mobile responsive applications using mobile-first approach and strategy.</li>
             <li>Implemented applications and landing pages from concept through deployment.</li>
             <li>Collaborated with product team members to implement new feature developments.</li>
