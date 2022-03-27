@@ -45,7 +45,7 @@ export default function Home() {
     <Section id="about">
       <div className='row justify-content-between'>
         <div className='col-md-6 order-last order-lg-first' data-aos='fade-up'>
-          <h1 className="mb-0">
+          <h1 className="mb-0 about-home">
             Ayòmídé 
             <span className="text-primary" style={{paddingLeft: '2vw'}}>ÌBÒSÍOLÁ</span>
           </h1>

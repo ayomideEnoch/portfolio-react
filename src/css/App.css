@@ -254,8 +254,11 @@ section.resume-section .resume-section-content {
   }
 }
 @media (max-width: 768px) {
+  .about-home {
+    font-size: 4rem;
+  }
   section.resume-section {
-    padding-top: 3rem;
+    padding-top: 2rem;
     padding-left: 10px;
     padding-right: 10px;
   }
