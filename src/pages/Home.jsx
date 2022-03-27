@@ -71,7 +71,20 @@ export default function Home() {
       </div>
 
       <p className="lead mb-4">
-      I am a Talent Management Professional with proven experience in Designing HR Processes, Technical Recruiting, Talent Sourcing, Strategy Development, Recruitment and Selection, Employee Onboarding, Payroll Management, HRIS, Employer Branding, Learning and Development, and other Human Resources functions spanning across Tech Start-ups, with a strong Software Development background; specialized in building Web Applications that are aesthetically pleasing and logic driven.
+      I am a Talent Management Professional with a strong Software Development background, specialized in building Web Applications that are aesthetically pleasing and logic-driven. My core interests include:
+        <ul>
+          <li>Designing HR Processes</li>
+          <li>Technical Recruiting</li>
+          <li>Talent Sourcing</li>
+          <li>Strategy Development</li>
+          <li>Recruitment and Selection</li>
+          <li>Employee Onboarding</li>
+          <li>Payroll Management</li>
+          <li>Human Resources Information System (HRIS)</li>
+          <li>Employer Branding</li>
+          <li>Employer Branding</li>
+          <li>And other Human Resources functions spanning across Tech Start-ups.</li>
+        </ul> 
       </p>
 
       <div className="btn-group mb-5">
