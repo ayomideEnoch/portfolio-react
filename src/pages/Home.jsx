@@ -71,7 +71,9 @@ export default function Home() {
       </div>
 
       <p className="lead mb-4">
-      I am a Talent Management Professional with a strong Software Development background, specialized in building Web Applications that are aesthetically pleasing and logic-driven. My core interests include:
+      I am a Data-driven Technical Recruiter capable of Advanced Boolean Search to identify and mine top candidates with a strong Software Development background (4-5), specialized in building web and mobile applications that are aesthetically pleasing and logic-driven.<br></br>
+      There’s nothing like the thrill of a candidate’s enthusiastic “Yes!” to an offer, and an equally pleased Hiring Manager who just landed a top performer. Perhaps even more satisfying is successfully recruiting a superstar and then seeing him/her develop a billion-dollar product. Knowing my efforts impact the bottom line keeps me going every day.<br></br>
+      In addition to my knowledge base, I actively seek out new technologies and stay up-to-date on industry trends and advancements. <br></br>My core interests include:
         <ul>
           <li>Designing HR Processes</li>
           <li>Technical Recruiting</li>
