@@ -6,6 +6,44 @@ export default function Experience() {
     <Section id="experience" title="Experience">
       <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
         <div className="flex-grow-1">
+          <h3 className="mb-0">Community Lead</h3>
+          <div className="subheading mb-3">Jobs Meet Devs</div>
+          <p>
+            <strong>Roles/Responsibilities</strong><br />
+            <li>Communicate mistakes software developers make every day in their job search pursuit with the heart of a Technical Recruiter and the mind of a Software Developer.</li>
+            <li>Help developers avoid the regular pitfalls in hiring processes by using any collection of materials including animate and inanimate objects and human and non-human resources useful in teaching and learning situations to help achieve desired learning objectives.</li>
+            <li>Share job opportunities for members of the community.</li>
+            <li>Create systems for organizational growth.</li>
+            <li>Building an all-round development atmosphere.</li>
+          </p>
+        </div>
+        <div className="flex-shrink-0">
+          <span className="text-primary">April 2022 - Present</span>
+        </div>
+      </div>
+      <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
+        <div className="flex-grow-1">
+          <h3 className="mb-0">Technical Recruiter (Freelance)</h3>
+          <div className="subheading mb-3">Remotebase</div>
+          <p>
+            <strong>Roles/Responsibilities</strong><br />
+            <li>Sourcing potential candidates on platforms such as LinkedIn, and GitHub.</li>
+            <li>Serving as an ambassador for Remotebase and representing her in potential candidates’ first interactions with the organization.</li>
+            <li>Performing pre-screening calls to analyze applicants’ abilities.</li>
+            <li>Interviewing candidates combining various methods (e.g. structured interviews, technical assessments, and behavioral questions).</li>
+            <li>Coordinating with Technical team leaders to forecast department goals and hiring needs.</li>
+            <li>Crafting and sending personalized recruiting emails with current job openings to passive candidates.</li>
+            <li>Keeping up-to-date with new technological trends and products.</li>
+            <li>Creating a seamless candidate experience through all stages.</li>
+            <li>Actively engaging and promoting diversity and inclusion in hiring strategies.</li>
+          </p>
+        </div>
+        <div className="flex-shrink-0">
+          <span className="text-primary">April 2022 - Present</span>
+        </div>
+      </div>
+      <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
+        <div className="flex-grow-1">
           <h3 className="mb-0">Technical Recruiter || Frontend Developer</h3>
           <div className="subheading mb-3">PERICIUS TECHNOLOGIES PVT. LTD.</div>
           <p>
