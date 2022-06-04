@@ -4,9 +4,32 @@ import Section from "../components/Section";
 export default function Experience() {
   return (
     <Section id="experience" title="Experience">
+      <div className="flex-shrink-0">
+          <span className="text-primary">April 2022 - Present</span>
+        </div>
       <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
         <div className="flex-grow-1">
-          <h3 className="mb-0">Community Lead</h3>
+          <h3 className="mb-0">Recruitment Consultant — Contract</h3>
+          <div className="subheading mb-3">VGS Recruitment Solutions</div>
+          <p>
+            <strong>Roles/Responsibilities</strong><br />
+            <li>Building relationships with clients.</li>
+            <li>Negotiating contracts.</li>
+            <li>Headhunting.</li>
+            <li>Interviewing and assessing prospective applicants and matching them with vacancies at client companies.</li>
+            <li>Screening candidates and drawing up shortlists of candidates for clients to interview.</li>
+            <li>Organizing interviews and selection events.</li>
+            <li>Making arrangements for the advertisement of vacancies.</li>
+            <li>Helping applicants to prepare for interviews.</li>
+          </p>
+        </div>
+        <div className="flex-shrink-0">
+          <span className="text-primary">April 2022 - Present</span>
+        </div>
+      </div>
+      <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
+        <div className="flex-grow-1">
+          <h3 className="mb-0">Community Lead || Senior Technical Recruiter</h3>
           <div className="subheading mb-3">Jobs Meet Devs</div>
           <p>
             <strong>Roles/Responsibilities</strong><br />
@@ -23,7 +46,7 @@ export default function Experience() {
       </div>
       <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
         <div className="flex-grow-1">
-          <h3 className="mb-0">Technical Recruiter (Freelance)</h3>
+          <h3 className="mb-0">Technical Recruiter — Freelance</h3>
           <div className="subheading mb-3">Remotebase</div>
           <p>
             <strong>Roles/Responsibilities</strong><br />
@@ -61,7 +84,7 @@ export default function Experience() {
       </div>
       <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
         <div className="flex-grow-1">
-          <h3 className="mb-0">Technical Copywriter</h3>
+          <h3 className="mb-0">Technical Copywriter — Contract</h3>
           <div className="subheading mb-3">Marketpath Inc.</div>
           <p>
             <li> Gathered and analyzed technical and product information from various sources to document new or changing product functionality.</li>
@@ -74,7 +97,7 @@ export default function Experience() {
       </div>
       <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
         <div className="flex-grow-1">
-          <h3 className="mb-0">Frontend Developer (Contract)</h3>
+          <h3 className="mb-0">Frontend Developer — Contract</h3>
           <div className="subheading mb-3">Mezovest</div>
           <p>
             <li> Built an online payment gateway that allows businesses make and receive payments across continents, currencies, preferred payment methods, and platforms.</li>
@@ -86,7 +109,7 @@ export default function Experience() {
       </div>
       <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
         <div className="flex-grow-1">
-          <h3 className="mb-0">Software Developer</h3>
+          <h3 className="mb-0">Software Developer — Contract</h3>
           <div className="subheading mb-3">Royal Crystal Airways</div>
           <p>
             <li> Built the Web Application for Royal Crystal Airways and Royal Trip using ReactJS, Redux, jQuery, Vanilla JavaScript, Material-UI, TailwindCSS, Bootstrap, HTML5, CSS3, SASS, Stylus and ES6.</li>
@@ -99,7 +122,7 @@ export default function Experience() {
       </div>
       <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
         <div className="flex-grow-1">
-          <h3 className="mb-0">Frontend Developer</h3>
+          <h3 className="mb-0">Frontend Developer — Part-Time</h3>
           <div className="subheading mb-3">Midra Solutions</div>
           <p>
             <li>Maintained, optimized, troubleshot, and improved websites.</li>
@@ -115,7 +138,7 @@ export default function Experience() {
       </div>
       <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
         <div className="flex-grow-1">
-          <h3 className="mb-0">Software Developer (Intern)</h3>
+          <h3 className="mb-0">Software Developer (Intern) — Full-Time</h3>
           <div className="subheading mb-3">Lagosbuild</div>
           <p>
             <li>Standardized website output with a new, responsive, mobile-first approach and strategy.</li>
