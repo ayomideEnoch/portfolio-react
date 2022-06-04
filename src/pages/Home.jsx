@@ -71,7 +71,7 @@ export default function Home() {
       </div>
 
       <p className="lead mb-4">
-      I am a Data-driven Technical Recruiter capable of Advanced Boolean Search to identify and mine top candidates with a strong Software Development background (4-5), specialized in building web and mobile applications that are aesthetically pleasing and logic-driven.<br></br>
+      I am a Data-driven Technical Recruiter capable of Advanced Linkedin Boolean Search as well as X-ray search - Recruit’em (Google) and Greenhouse ATS platform to identify and mine top candidates with a strong Software Development background; specialized in building web and mobile applications that are aesthetically pleasing and logic-driven (4-5 years), specialized in building web and mobile applications that are aesthetically pleasing and logic-driven.<br></br>
       There’s nothing like the thrill of a candidate’s enthusiastic “Yes!” to an offer, and an equally pleased Hiring Manager who just landed a top performer. Perhaps even more satisfying is successfully recruiting a superstar and then seeing him/her develop a billion-dollar product. Knowing my efforts impact the bottom line keeps me going every day.<br></br>
       In addition to my knowledge base, I actively seek out new technologies and stay up-to-date on industry trends and advancements. <br></br>My core interests include:
         <ul>
