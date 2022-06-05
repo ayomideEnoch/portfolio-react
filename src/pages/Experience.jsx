@@ -14,13 +14,14 @@ export default function Experience() {
           <p>
             <strong>Roles/Responsibilities</strong><br />
             <li>Building relationships with clients.</li>
-            <li>Negotiating contracts.</li>
-            <li>Headhunting.</li>
-            <li>Interviewing and assessing prospective applicants and matching them with vacancies at client companies.</li>
-            <li>Screening candidates and drawing up shortlists of candidates for clients to interview.</li>
-            <li>Organizing interviews and selection events.</li>
-            <li>Making arrangements for the advertisement of vacancies.</li>
-            <li>Helping applicants to prepare for interviews.</li>
+            <li>Sourcing potential candidates on platforms such as LinkedIn, and GitHub.</li>
+            <li>Serving as an ambassador for VGS Recruitment Solutions and representing her in potential candidates’ first interactions with the organization.</li>
+            <li>Performing pre-screening calls to analyze applicants’ abilities.</li>
+            <li>Coordinating with Technical team leaders to forecast department goals and hiring needs.</li>
+            <li>Crafting and sending personalized recruiting emails with current job openings to passive candidates</li>
+            <li>Keeping up-to-date with new technological trends and products.</li>
+            <li>Creating a seamless candidate experience through all stages.</li>
+            <li>Actively engaging and promoting diversity and inclusion in hiring strategies.</li>
           </p>
         </div>
         <div className="flex-shrink-0">
@@ -29,7 +30,7 @@ export default function Experience() {
       </div>
       <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
         <div className="flex-grow-1">
-          <h3 className="mb-0">Community Lead || Senior Technical Recruiter</h3>
+          <h3 className="mb-0">Community Lead || Senior Technical Recruiter — Volunteering</h3>
           <div className="subheading mb-3">Jobs Meet Devs</div>
           <p>
             <strong>Roles/Responsibilities</strong><br />
@@ -38,27 +39,6 @@ export default function Experience() {
             <li>Share job opportunities for members of the community.</li>
             <li>Create systems for organizational growth.</li>
             <li>Building an all-round development atmosphere.</li>
-          </p>
-        </div>
-        <div className="flex-shrink-0">
-          <span className="text-primary">April 2022 - Present</span>
-        </div>
-      </div>
-      <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
-        <div className="flex-grow-1">
-          <h3 className="mb-0">Technical Recruiter — Freelance</h3>
-          <div className="subheading mb-3">Remotebase</div>
-          <p>
-            <strong>Roles/Responsibilities</strong><br />
-            <li>Sourcing potential candidates on platforms such as LinkedIn, and GitHub.</li>
-            <li>Serving as an ambassador for Remotebase and representing her in potential candidates’ first interactions with the organization.</li>
-            <li>Performing pre-screening calls to analyze applicants’ abilities.</li>
-            <li>Interviewing candidates combining various methods (e.g. structured interviews, technical assessments, and behavioral questions).</li>
-            <li>Coordinating with Technical team leaders to forecast department goals and hiring needs.</li>
-            <li>Crafting and sending personalized recruiting emails with current job openings to passive candidates.</li>
-            <li>Keeping up-to-date with new technological trends and products.</li>
-            <li>Creating a seamless candidate experience through all stages.</li>
-            <li>Actively engaging and promoting diversity and inclusion in hiring strategies.</li>
           </p>
         </div>
         <div className="flex-shrink-0">
