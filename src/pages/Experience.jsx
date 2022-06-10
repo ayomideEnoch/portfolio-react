@@ -48,7 +48,7 @@ export default function Experience() {
       <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
         <div className="flex-grow-1">
           <h3 className="mb-0">Senior Recruitment Consultant (Tech) - Contract</h3>
-          <div className="subheading mb-3">Xenior Recruitment Consultant (Tech) - Contract</div>
+          <div className="subheading mb-3">Xapic Technologies</div>
           <p>
             <strong>Roles/Responsibilities</strong><br />
             <li>Sourcing potential candidates on platforms such as LinkedIn and GitHub</li>
