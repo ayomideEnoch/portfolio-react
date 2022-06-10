@@ -42,6 +42,27 @@ export default function Experience() {
           </p>
         </div>
         <div className="flex-shrink-0">
+          <span className="text-primary">March 2020 - Present</span>
+        </div>
+      </div>
+      <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
+        <div className="flex-grow-1">
+          <h3 className="mb-0">Senior Recruitment Consultant (Tech) - Contract</h3>
+          <div className="subheading mb-3">Xenior Recruitment Consultant (Tech) - Contract</div>
+          <p>
+            <strong>Roles/Responsibilities</strong><br />
+            <li>Sourcing potential candidates on platforms such as LinkedIn and GitHub</li>
+            <li>Serving as an ambassador for Xapic Technologies and representing her in potential candidates' first interaction with the organization.</li>
+            <li>Performing pre-screening calls to analyze applicants’ abilities.</li>
+            <li>Interviewing candidates combining various methods (e.g. structured interviews, technical assessments, and behavioral questions).</li>
+            <li>Coordinating with Technical team leaders to forecast department goals and hiring needs.</li>
+            <li>Crafting and sending personalized recruiting emails with current job openings to passive candidates.</li>
+            <li>Keeping up-to-date with new technological trends and products.</li>
+            <li>Creating a seamless candidate experience through all stages.</li>
+            <li>Actively engaging and promoting diversity and inclusion in hiring strategies</li>
+          </p>
+        </div>
+        <div className="flex-shrink-0">
           <span className="text-primary">April 2022 - Present</span>
         </div>
       </div>
