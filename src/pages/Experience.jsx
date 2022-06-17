@@ -42,7 +42,7 @@ export default function Experience() {
           </p>
         </div>
         <div className="flex-shrink-0">
-          <span className="text-primary">March 2020 - Present</span>
+        <span className="text-primary">April 2022 - Present</span>
         </div>
       </div>
       <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
@@ -63,7 +63,7 @@ export default function Experience() {
           </p>
         </div>
         <div className="flex-shrink-0">
-          <span className="text-primary">April 2022 - Present</span>
+          <span className="text-primary">March 2020 - Present</span>
         </div>
       </div>
       <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
