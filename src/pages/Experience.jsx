@@ -4,13 +4,25 @@ import Section from "../components/Section";
 export default function Experience() {
   return (
     <Section id="experience" title="Experience">
-      <div className="flex-shrink-0">
-          <span className="text-primary">April 2022 - Present</span>
+      <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
+        <div className="flex-grow-1">
+          <h3 className="mb-0">Recruitment Consultant - Contract</h3>
+          <div className="subheading mb-3">HR Stream, Utah, U.S.A</div>
+          <p>
+            <strong>Roles/Responsibilities</strong><br />
+            <li>Providing software consulting services to HR Stream’s clients.</li>
+            <li>Utilizing a variety of direct and innovative IT sourcing approaches including social media, internet sourcing, name generation research, and networking to generate qualified IT candidates for various engineering roles.</li>
+            <li>Implementing technical recruitment strategies that contribute to the enhancement of HR Stream global IT hiring processes.</li>
+          </p>
         </div>
+        <div className="flex-shrink-0">
+        <span className="text-primary">April 2022 - Present</span>
+        </div>
+      </div>
       <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
         <div className="flex-grow-1">
           <h3 className="mb-0">Recruitment Consultant — Contract</h3>
-          <div className="subheading mb-3">VGS Recruitment Solutions</div>
+          <div className="subheading mb-3">VGS Recruitment Solutions, Lagos, Nigeria</div>
           <p>
             <strong>Roles/Responsibilities</strong><br />
             <li>Building relationships with clients.</li>
@@ -30,25 +42,8 @@ export default function Experience() {
       </div>
       <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
         <div className="flex-grow-1">
-          <h3 className="mb-0">Community Lead || Senior Technical Recruiter — Volunteering</h3>
-          <div className="subheading mb-3">Jobs Meet Devs</div>
-          <p>
-            <strong>Roles/Responsibilities</strong><br />
-            <li>Communicate mistakes software developers make every day in their job search pursuit with the heart of a Technical Recruiter and the mind of a Software Developer.</li>
-            <li>Help developers avoid the regular pitfalls in hiring processes by using any collection of materials including animate and inanimate objects and human and non-human resources useful in teaching and learning situations to help achieve desired learning objectives.</li>
-            <li>Share job opportunities for members of the community.</li>
-            <li>Create systems for organizational growth.</li>
-            <li>Building an all-round development atmosphere.</li>
-          </p>
-        </div>
-        <div className="flex-shrink-0">
-        <span className="text-primary">April 2022 - Present</span>
-        </div>
-      </div>
-      <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
-        <div className="flex-grow-1">
           <h3 className="mb-0">Senior Recruitment Consultant (Tech) - Contract</h3>
-          <div className="subheading mb-3">Xapic Technologies</div>
+          <div className="subheading mb-3">Xapic Technologies, Lagos, Nigeria</div>
           <p>
             <strong>Roles/Responsibilities</strong><br />
             <li>Sourcing potential candidates on platforms such as LinkedIn and GitHub</li>
@@ -69,7 +64,7 @@ export default function Experience() {
       <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
         <div className="flex-grow-1">
           <h3 className="mb-0">Technical Recruiter || Frontend Developer</h3>
-          <div className="subheading mb-3">PERICIUS TECHNOLOGIES PVT. LTD.</div>
+          <div className="subheading mb-3">Pericius Technologies Pvt. Ltd, Bangalore, India</div>
           <p>
             <strong>Roles/Responsibilities</strong><br />
             <li>Pinpoint candidate motivators and used them to successfully recruit quality candidates.</li>
@@ -86,7 +81,7 @@ export default function Experience() {
       <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
         <div className="flex-grow-1">
           <h3 className="mb-0">Technical Copywriter — Contract</h3>
-          <div className="subheading mb-3">Marketpath Inc.</div>
+          <div className="subheading mb-3">Marketpath Inc, Indianapolis, U.S.A</div>
           <p>
             <li> Gathered and analyzed technical and product information from various sources to document new or changing product functionality.</li>
             <li>Developed product manuals, how-to guides, website help sections, journal articles, and other content that distills technical information with ease and clarity.</li>
@@ -99,7 +94,7 @@ export default function Experience() {
       <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
         <div className="flex-grow-1">
           <h3 className="mb-0">Frontend Developer — Contract</h3>
-          <div className="subheading mb-3">Mezovest</div>
+          <div className="subheading mb-3">Mezovest, Lagos, Nigeria</div>
           <p>
             <li> Built an online payment gateway that allows businesses make and receive payments across continents, currencies, preferred payment methods, and platforms.</li>
           </p>
@@ -111,7 +106,7 @@ export default function Experience() {
       <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
         <div className="flex-grow-1">
           <h3 className="mb-0">Software Developer — Contract</h3>
-          <div className="subheading mb-3">Royal Crystal Airways</div>
+          <div className="subheading mb-3">Royal Crystal Airways, Lagos, Nigeria</div>
           <p>
             <li> Built the Web Application for Royal Crystal Airways and Royal Trip using ReactJS, Redux, jQuery, Vanilla JavaScript, Material-UI, TailwindCSS, Bootstrap, HTML5, CSS3, SASS, Stylus and ES6.</li>
             <li>Oversaw the outsourced Mobile Application development for Royal Crystal Airways and Royal Trip.</li>
@@ -124,7 +119,7 @@ export default function Experience() {
       <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
         <div className="flex-grow-1">
           <h3 className="mb-0">Frontend Developer — Part-Time</h3>
-          <div className="subheading mb-3">Midra Solutions</div>
+          <div className="subheading mb-3">Midra Solutions, Lagos, Nigeria</div>
           <p>
             <li>Maintained, optimized, troubleshot, and improved websites.</li>
             <li>Created standardized websites and mobile responsive applications using mobile-first approach and strategy.</li>
@@ -140,7 +135,7 @@ export default function Experience() {
       <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
         <div className="flex-grow-1">
           <h3 className="mb-0">Software Developer (Intern) — Full-Time</h3>
-          <div className="subheading mb-3">Lagosbuild</div>
+          <div className="subheading mb-3">Lagosbuild, Lagos, Nigeria</div>
           <p>
             <li>Standardized website output with a new, responsive, mobile-first approach and strategy.</li>
             <li>Assessed UX and UI designs for technical feasibility.</li>
