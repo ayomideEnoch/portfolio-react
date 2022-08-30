@@ -58,7 +58,7 @@ const Skills = () => {
     ],
     frameworks: [
       {
-        title: "Applicant tracking software (ATS)",
+        title: "Applicant Tracking Software (ATS)",
         progress: "70%",
       },
       {

@@ -130,7 +130,7 @@ export default function Experience() {
         </div>
         <div className="flex-shrink-0">
           <span className="text-primary">January 2019 - March 2020</span>
-        </div>
+        </div>  
       </div>
       <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
         <div className="flex-grow-1">

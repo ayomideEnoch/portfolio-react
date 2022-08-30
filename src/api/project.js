@@ -15,18 +15,18 @@ export default [
     source: "https://github.com/ayomideEnoch/aid-consults",
   },
   {
-    img: LuxRooms,
-    title: "LUXURIOUS ROOMS",
-    desc: "A React E-commerce PWA that allows you select your room of choice, depending on size and other preferences!",
-    demo: "https://luxurious-rooms.netlify.app/",
-    source: "https://github.com/ayomideEnoch/luxurious-rooms",
-  },
-  {
     img: QA,
     title: "QUESTION AND ANSWER APP",
     desc: "A web based game that allows audiences to answer questions and review their performance at the end of the game!",
     demo: "https://q-a.netlify.app/",
     source: "https://github.com/ayomideEnoch/q-a-app",
+  },
+  {
+    img: LuxRooms,
+    title: "LUXURIOUS ROOMS",
+    desc: "A React E-commerce PWA that allows you select your room of choice, depending on size and other preferences!",
+    demo: "https://luxurious-rooms.netlify.app/",
+    source: "https://github.com/ayomideEnoch/luxurious-rooms",
   },
   {
     img: FRTApp,
