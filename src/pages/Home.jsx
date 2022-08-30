@@ -1,6 +1,6 @@
 import React from "react"
 import Section from "../components/Section"
-import ResumePDF from "../assets/Ayomide Ibosiola —  Snr. Technical Recruiter.pdf"
+import ResumePDF from "../assets/Ayomide Ibosiola—Technical Recruiter.pdf"
 import SGCartoon from "../assets/ayomide_cartoon.png"
 import { FaFacebookF, FaGithub, FaLinkedinIn, FaTwitter, FaInstagram } from "react-icons/fa"
 
@@ -71,9 +71,9 @@ export default function Home() {
       </div>
 
       <p className="lead mb-4">
-      I am a Data-driven Technical Recruiter capable of Advanced Linkedin Boolean Search as well as X-ray search - Recruit’em (Google) and Greenhouse ATS platform to identify and mine top candidates with a strong Software Development background; specialized in building web and mobile applications that are aesthetically pleasing and logic-driven (4-5 years), specialized in building web and mobile applications that are aesthetically pleasing and logic-driven.<br></br>
-      There’s nothing like the thrill of a candidate’s enthusiastic “Yes!” to an offer, and an equally pleased Hiring Manager who just landed a top performer. Perhaps even more satisfying is successfully recruiting a superstar and then seeing him/her develop a billion-dollar product. Knowing my efforts impact the bottom line keeps me going every day.<br></br>
-      In addition to my knowledge base, I actively seek out new technologies and stay up-to-date on industry trends and advancements. <br></br>My core interests include:
+      I am a Data-driven Technical Recruiter capable of Advanced Linkedin Boolean Search and X-ray search - Recruit’em (Google) and Greenhouse ATS platform to identify and mine top candidates with a strong Software Development background. I specialized in building web and mobile applications that are aesthetically pleasing and logic-driven (4-5 years).<br></br>
+      There’s nothing like the thrill of a candidate’s enthusiastic “Yes!” to an offer and an equally pleased Hiring Manager who just landed a top performer. Perhaps even more satisfying is successfully recruiting a superstar and then seeing them develop a billion-dollar product. Knowing my efforts impact the bottom line keeps me going every day.<br></br>
+      In addition to my knowledge base, I actively seek out new technologies and stay up-to-date on industry trends and advancements.<br></br>My core interests include:
         <ul>
           <li>Designing HR Processes</li>
           <li>Technical Recruiting</li>
@@ -84,7 +84,7 @@ export default function Home() {
           <li>Payroll Management</li>
           <li>Human Resources Information System (HRIS)</li>
           <li>Employer Branding</li>
-          <li>And other Human Resources functions spanning across Tech Start-ups.</li>
+          <li>And other Human Resources functions spanning across Tech start ups.</li>
         </ul> 
       </p>
 
