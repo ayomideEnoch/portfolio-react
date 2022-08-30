@@ -84,7 +84,7 @@ export default function Home() {
           <li>Payroll Management</li>
           <li>Human Resources Information System (HRIS)</li>
           <li>Employer Branding</li>
-          <li>And other Human Resources functions spanning across Tech start ups.</li>
+          <li>And other Human Resources functions spanning across Tech startups.</li>
         </ul> 
       </p>
 
