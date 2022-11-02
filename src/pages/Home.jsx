@@ -1,6 +1,6 @@
 import React from "react"
 import Section from "../components/Section"
-import ResumePDF from "../assets/Ayomide Ibosiola —  Snr. Technical Recruiter.pdf"
+import ResumePDF from "../assets/Ayomide Ibosiola—Technical Recruiter.pdf"
 import SGCartoon from "../assets/ayomide_cartoon.png"
 import { FaFacebookF, FaGithub, FaLinkedinIn, FaTwitter, FaInstagram } from "react-icons/fa"
 
