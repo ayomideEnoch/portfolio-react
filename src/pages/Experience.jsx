@@ -22,7 +22,7 @@ export default function Experience() {
       <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
         <div className="flex-grow-1">
           <h3 className="mb-0">Recruitment Consultant — Contract</h3>
-          <div className="subheading mb-3">VGS Recruitment Solutions, Lagos, Nigeria</div>
+          <div className="subheading mb-3">PG Consulting, Lagos, Nigeria</div>
           <p>
             <strong>Roles/Responsibilities</strong><br />
             <li>Building relationships with clients.</li>
@@ -46,19 +46,17 @@ export default function Experience() {
           <div className="subheading mb-3">Xapic Technologies, Lagos, Nigeria</div>
           <p>
             <strong>Roles/Responsibilities</strong><br />
-            <li>Sourcing potential candidates on platforms such as LinkedIn and GitHub</li>
-            <li>Serving as an ambassador for Xapic Technologies and representing her in potential candidates' first interaction with the organization.</li>
-            <li>Performing pre-screening calls to analyze applicants’ abilities.</li>
-            <li>Interviewing candidates combining various methods (e.g. structured interviews, technical assessments, and behavioral questions).</li>
-            <li>Coordinating with Technical team leaders to forecast department goals and hiring needs.</li>
-            <li>Crafting and sending personalized recruiting emails with current job openings to passive candidates.</li>
-            <li>Keeping up-to-date with new technological trends and products.</li>
-            <li>Creating a seamless candidate experience through all stages.</li>
-            <li>Actively engaging and promoting diversity and inclusion in hiring strategies</li>
+            <li>Headhunted candidates</li>
+            <li>Interviewed and assessed prospective applicants and matched them with vacancies at client companies</li>
+            <li>Screened candidates and drew up shortlists of candidates for clients to interview</li>
+            <li>Organised interviews and selection events</li>
+            <li>Made arrangements for the advertisement of vacancies</li>
+            <li>Helped applicants to prepare for interviews</li>
+            <li>Built relationships with clients</li>
           </p>
         </div>
         <div className="flex-shrink-0">
-          <span className="text-primary">March 2020 - Present</span>
+          <span className="text-primary">March 2020 - March 2022</span>
         </div>
       </div>
       <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
@@ -67,11 +65,11 @@ export default function Experience() {
           <div className="subheading mb-3">Pericius Technologies Pvt. Ltd, Bangalore, India</div>
           <p>
             <strong>Roles/Responsibilities</strong><br />
-            <li>Pinpoint candidate motivators and used them to successfully recruit quality candidates.</li>
-            <li>Analyze job descriptions and communicated with the Hiring Manager (Pericius Technologies Pvt. Ltd) to clarify terms that could be vague; earned job-satisfaction rates of 95 percent from candidate/company matches as a result of this attention to detail.</li>
-            <li> Create new features, functionality and capabilities, specifically in the Contract Management System using ReactJS, Ant Design, Material UI and Java.</li>
-            <li>Perform bug fixes and code reviews.</li>
-            <li>Recommend solutions for a streamlined, user-friendly interface with the design team.</li>
+            <li>Pinpointed candidate motivators and used them to successfully recruit quality candidates.</li>
+            <li>Analyzed job descriptions and communicated with the Hiring Manager (Pericius Technologies Pvt. Ltd) to clarify terms that could be vague; earned job-satisfaction rates of 95 percent from candidate/company matches as a result of this attention to detail.</li>
+            <li> Created new features, functionality and capabilities, specifically in the Contract Management System using ReactJS, Ant Design, Material UI and Java.</li>
+            <li>Performed bug fixes and code reviews.</li>
+            <li>Recommended solutions for a streamlined, user-friendly interface with the design team.</li>
           </p>
         </div>
         <div className="flex-shrink-0">
