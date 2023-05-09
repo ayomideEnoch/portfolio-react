@@ -6,22 +6,7 @@ export default function Experience() {
     <Section id="experience" title="Experience">
       <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
         <div className="flex-grow-1">
-          <h3 className="mb-0">Recruitment Consultant - Contract</h3>
-          <div className="subheading mb-3">HR Stream, Utah, U.S.A</div>
-          <p>
-            <strong>Roles/Responsibilities</strong><br />
-            <li>Providing software consulting services to HR Stream’s clients.</li>
-            <li>Utilizing a variety of direct and innovative IT sourcing approaches including social media, internet sourcing, name generation research, and networking to generate qualified IT candidates for various engineering roles.</li>
-            <li>Implementing technical recruitment strategies that contribute to the enhancement of HR Stream global IT hiring processes.</li>
-          </p>
-        </div>
-        <div className="flex-shrink-0">
-        <span className="text-primary">April 2022 - Present</span>
-        </div>
-      </div>
-      <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
-        <div className="flex-grow-1">
-          <h3 className="mb-0">Recruitment Consultant — Contract</h3>
+          <h3 className="mb-0">Talent Acquisition Manager, Tech Lead - Full Time</h3>
           <div className="subheading mb-3">PG Consulting, Lagos, Nigeria</div>
           <p>
             <strong>Roles/Responsibilities</strong><br />
@@ -42,7 +27,22 @@ export default function Experience() {
       </div>
       <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
         <div className="flex-grow-1">
-          <h3 className="mb-0">Senior Recruitment Consultant (Tech) - Contract</h3>
+          <h3 className="mb-0">Talent Acquisition Specialist, Tech and Non-Tech - Contract</h3>
+          <div className="subheading mb-3">HR Stream, Utah, U.S.A</div>
+          <p>
+            <strong>Roles/Responsibilities</strong><br />
+            <li>Providing software consulting services to HR Stream’s clients.</li>
+            <li>Utilizing a variety of direct and innovative IT sourcing approaches including social media, internet sourcing, name generation research, and networking to generate qualified IT candidates for various engineering roles.</li>
+            <li>Implementing technical recruitment strategies that contribute to the enhancement of HR Stream global IT hiring processes.</li>
+          </p>
+        </div>
+        <div className="flex-shrink-0">
+        <span className="text-primary">April 2022 - December 2022</span>
+        </div>
+      </div>
+      <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
+        <div className="flex-grow-1">
+          <h3 className="mb-0">Talent Acquisition Specialist (Team Lead) - Contract</h3>
           <div className="subheading mb-3">Xapic Technologies, Lagos, Nigeria</div>
           <p>
             <strong>Roles/Responsibilities</strong><br />
@@ -56,7 +56,7 @@ export default function Experience() {
           </p>
         </div>
         <div className="flex-shrink-0">
-          <span className="text-primary">March 2020 - March 2022</span>
+          <span className="text-primary">April 2020 - March 2022</span>
         </div>
       </div>
       <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
